@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Arni;Buitendag;;;
+FN: Arno  Buitendag 
+ORG:Hi-Phonics Agriculture;
+TITLE:ND Eng Civil, MSc ConsEcol
+EMAIL;type=INTERNET;type=WORK;type=pref:arno@hi-con.co.za
+TEL;type=WORK;type=VOICE:+27 82 494 9945
+item1.ADR;type=WORK;type=pref:;;749 Old Paardevlei Road\Somerset West\, 7130
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:instagram.com/hiconprojects/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
